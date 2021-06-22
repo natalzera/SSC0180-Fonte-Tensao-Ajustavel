@@ -1,9 +1,9 @@
 # SSC0180-Fonte-Tensao-Ajustavel
 
 ## Rascunho de roteiro:
-[ ] Rascunhos e cálculos do circuito
-[ ] Testes no simulador
-[ ] Fazer um programa que calcula tudo? C/Python/Jupyter/Js
-[ ] Elaborar apresentação de slides
-[ ] Gravar apresentação (se precisar)
-[ ] Organizar e ajustar tudo no Git
+<p>[ ] Rascunhos e cálculos do circuito</p>
+<p>[ ] Testes no simulador</p>
+<p>[ ] Fazer um programa que calcula tudo? C/Python/Jupyter/Js</p>
+<p>[ ] Elaborar apresentação de slides</p>
+<p>[ ] Gravar apresentação (se precisar)</p>
+<p>[ ] Organizar e ajustar tudo no Git</p>
