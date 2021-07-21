@@ -9,5 +9,8 @@ Incluir um VIDEO mostrando o Projeto funcionando e/ou simulando, e explicando po
 ## O grupo
 
 André Molina Gregório - 11212974
+
 Adalton de Sena Almeida Filho
+
 Lucas da Silva Claros
+
