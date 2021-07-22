@@ -30,8 +30,8 @@ O capacitor é responsavel por carregar o sistema quando a tensão (vinda da pon
 
 * Resistores.  
 O circuito implementa 2 resistores.  
-O primeiro, *de 470ohms*, é responsavel por limitar a corrente passando pelo diodo Zener e pelo potenciometro. Esse valor foi calculado para causar uma queda de tensão de até 5V quando o ripple esta no minimo (~18V). 
-O segundo, *de 390ohms*, limita a tensão minima para aproximadamente 3,7V, fazendo com que o potencial de saida do potenciômetro esteja sempre entre ~12,7~3,7V.  
+O primeiro, *de 470ohms*, é responsavel por limitar a corrente passando pelo diodo Zener e pelo potenciometro. Esse valor foi calculado para causar uma queda de tensão de até 5V quando o ripple esta no minimo (~18V).  
+O segundo, *de 390ohms*, limita a tensão minima para aproximadamente 3,7V, fazendo com que o potencial de saida do potenciômetro esteja sempre entre ~12,7 ~3,7V.  
 [link para compra (470ohms)](https://www.baudaeletronica.com.br/resistor-470r-5-1-4w.html)  
 [link para compra (390ohms)](https://www.baudaeletronica.com.br/resistor-390r-5-1-4w.html)  
 
@@ -47,11 +47,7 @@ O potenciômetro recebe a corrente em paralelo com o diodo Zener, e por tanto te
 Por fim, o transistor é responsavel por amplificar a corrente que passa pela carga. Utilizando a corrente que passa pela base como referência, ele amplifica essa em 100 vezes. No pior caso (12V) ele recebe 1mA na base, e emite 100mA pelo emissor. O transistor escolhido foi o *Transistor NPN BC337*.  
 [link para compra](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)
 
-.
 
-.
-
-.
 ![image](https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/circ%20Fonte.png)
 
 
