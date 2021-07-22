@@ -59,12 +59,13 @@ Por fim, o transistor é responsavel por amplificar a corrente que passa pela ca
 
 ------------------------------
 ### PCB
+![image](https://user-images.githubusercontent.com/70608303/126671549-284b4e6a-a7d9-4be7-b6b5-ea114e14c358.png)
 <img src="https://user-images.githubusercontent.com/70608303/126671902-8b6510ad-0f59-4bd4-9217-33f732d51950.png" aling="left" alt="Diagrama PCB" border="0" width="150" height="150">.
 
 
 ## Calculos dos componentes
-![calc capacitor](https://user-images.githubusercontent.com/70608303/126669973-f4bc9f7d-e9a4-42b9-914a-477148cf743f.jpg)
-![calc resistores](https://user-images.githubusercontent.com/70608303/126670039-9c829897-8d2a-4eb2-a3eb-533e1ae7d988.jpg)
+<img src="https://user-images.githubusercontent.com/70608303/126670039-9c829897-8d2a-4eb2-a3eb-533e1ae7d988.jpg" aling="left" alt="Cálculo para os resistores" border="0" width="497" height="700">.
+<img src="https://user-images.githubusercontent.com/70608303/126669973-f4bc9f7d-e9a4-42b9-914a-477148cf743f.jpg" aling="left" alt="Cálculo para os resistores" border="0" width="497" height="700">.
 
 
 ## Video de explicação do circuito ainda será gravado.
