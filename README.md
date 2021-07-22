@@ -22,15 +22,16 @@ O transformador escolhido é o componente responsavel por abaixar a tensão da t
 
 [link para compra](https://www.baudaeletronica.com.br/transformador-trafo-500ma-15v.html)
  
-..* Diodos.  
+* Diodos.  
 Os diodos são usados para formar a ponte retificadora/ ponte de diodos. Essa ponte é responsavel por proporcionar o maior aproveitamento da energia, abastecendo o circito com a corrente em ambos os ciclos da corrente alternada. O escolhido para o projeto é o diodo 1N4007.
 
 [link para compra](https://www.baudaeletronica.com.br/diodo-1n4007.html)
 
-..* Capacitor.  
+* Capacitor.  
 O capacitor é responsavel por carregar o sistema quando a tensão (vinda da ponde de diodos) está em declinio estabilizando a tensão que vai para o restante do circuito e criando o "ripple". 
+[link para compra](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html)
 
-.
+.[link para compra]()
 .
 .
 
