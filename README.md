@@ -6,11 +6,11 @@ Montar/esquematizar uma fonte de tensão ajustável (corrente contínua)  entre 
 ## Componentes
 Componente     | Quantidade | Preço Total(R$)
 ---            | ---        | ---
-Transformador 15v 500ma | 1          | 31,60
+Transformador 15V 500mA | 1          | 31,60
 Diodos 1N4007           | 4          | 0,40
-Capacitor 470uF 25v     | 1          | 0,41
+Capacitor 470uF 25V     | 1          | 0,41
 Resistor 470ohms        | 1          | 0,05
-Diodo Zener 13v 0,5w    | 1          | 0,08
+Diodo Zener 13V 0,5W    | 1          | 0,08
 Potenciômetro 1k        | 1          | 1,99
 Resistor 390ohms        | 1          | 0,05
 Transistor NPN 45v500mA | 1          | 0,20
