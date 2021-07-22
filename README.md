@@ -59,7 +59,7 @@ Por fim, o transistor é responsavel por amplificar a corrente que passa pela ca
 
 ------------------------------
 ### PCB
-![image](https://user-images.githubusercontent.com/70608303/126671549-284b4e6a-a7d9-4be7-b6b5-ea114e14c358.png)
+<img src="https://user-images.githubusercontent.com/70608303/126671902-8b6510ad-0f59-4bd4-9217-33f732d51950.png" aling="left" alt="Diagrama PCB" border="0" width="150" height="150">.
 
 
 ## Calculos dos componentes
