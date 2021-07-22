@@ -1,7 +1,7 @@
 # SSC0180-Fonte-Tensao-Ajustavel
 
 ## Objetivos
-Montar/esquematizar uma fonte de tensão ajustável (corrente continua)  entre 3V a 12V com capacidade de 100mA em 12V
+Montar/esquematizar uma fonte de tensão ajustável (corrente contínua)  entre 3V a 12V com capacidade de 100mA em 12V
 
 ## Componentes
 Componente     | Quantidade | Preço Total(R$)
@@ -30,7 +30,7 @@ O capacitor é responsavel por carregar o sistema quando a tensão (vinda da pon
 
 * Resistores.  
 O circuito implementa 2 resistores.  
-O primeiro, *de 470ohms*, é responsavel por limitar a corrente passando pelo diodo Zener e pelo potenciometro. Esse valor foi calculado para causar uma queda de tensão de até 5V quando o ripple esta no minimo (~18V).  
+O primeiro, *de 470ohms*, é responsavel por limitar a corrente passando pelo diodo Zener e pelo potenciômetro. Esse valor foi calculado para causar uma queda de tensão de até 5V quando o ripple esta no minimo (~18V).  
 O segundo, *de 390ohms*, limita a tensão minima para aproximadamente 3,7V, fazendo com que o potencial de saida do potenciômetro esteja sempre entre ~12,7 ~3,7V.  
 [link para compra (470ohms)](https://www.baudaeletronica.com.br/resistor-470r-5-1-4w.html)  
 [link para compra (390ohms)](https://www.baudaeletronica.com.br/resistor-390r-5-1-4w.html)  
