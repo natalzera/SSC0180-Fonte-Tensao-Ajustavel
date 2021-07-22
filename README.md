@@ -1,7 +1,7 @@
 # SSC0180-Fonte-Tensao-Ajustavel
 
 ## Objetivos
-montar/esquematizar uma fonte de tensão ajustável (corrente continua)  entre 3V a 12V com capacidade minima de 100mA
+montar/esquematizar uma fonte de tensão ajustável (corrente continua)  entre 3V a 12V com capacidade de 100mA em 12V
 
 ## Componentes
 Componente     | Quantidade | Preço Total(R$)
@@ -13,7 +13,6 @@ Resistor 470ohms        | 1          | 0,05
 Diodo Zener 13v 0,5w    | 1          | 0,08
 Potenciômetro 1k        | 1          | 1,99
 Resistor 390ohms        | 1          | 0,05
-Resistor 10ohms         | 1          | 0,05
 Transistor NPN 45v500mA | 1          | 0,20
 
 
