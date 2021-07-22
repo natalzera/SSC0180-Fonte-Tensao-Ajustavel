@@ -9,11 +9,11 @@ Componente     | Quantidade | Preço Total(R$)
 Transformador 15V 500mA | 1          | 31,60
 Diodos 1N4007           | 4          | 0,40
 Capacitor 470uF 25V     | 1          | 0,41
-Resistor 470ohms        | 1          | 0,05
+Resistor 470Ω        | 1          | 0,05
 Diodo Zener 13V 0,5W    | 1          | 0,08
-Potenciômetro 1k        | 1          | 1,99
-Resistor 390ohms        | 1          | 0,05
-Transistor NPN 45v500mA | 1          | 0,20
+Potenciômetro 1KΩ        | 1          | 1,99
+Resistor 390Ω        | 1          | 0,05
+Transistor NPN 45V 500mA | 1          | 0,20
 TOTAL | -- | 34.78
 
 * Transformador.  
