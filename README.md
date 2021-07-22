@@ -19,10 +19,12 @@ TOTAL | -- | 34.75
 
 ..* Transformador
 O transformador escolhido é o componente responsavel por abaixar a tensão da tomada (220 V) para uma tensão mais proxima da que que será trabalhada (12-3 V). O transformador em questão leva 110 ou 220 para 15V.
+
 [link para compra] (https://www.baudaeletronica.com.br/transformador-trafo-500ma-15v.html)
 
 ..* Diodos
 Os diodos são usados para formar a ponte retificadora/ ponte de diodos. Essa ponte é responsavel por proporcionar o maior aproveitamento da energia, abastecendo o circito com a corrente em ambos os ciclos da corrente alternada. O escolhido para o projeto é o diodo 1N4007.
+
 [link para compra] (https://www.baudaeletronica.com.br/diodo-1n4007.html)
 
 ..* Capacitor
