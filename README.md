@@ -53,9 +53,21 @@ Por fim, o transistor é responsavel por amplificar a corrente que passa pela ca
 
 [Circuito simulado no falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcAOaAmA7MgnGB-kA2MAFgwTRBMJCRIGZaBTAWjDACgB3K5SENMmRUwNQcMgd6JEAC8mAOyYAnNvRYyIYaBlL0KyMNkFh4aVhigDY8W3cjJNjTrJFihbgWhmV5S1WDqJBzKnqL8JKJeMhEYkjwIJD4eJHwCHvG0SeCE-ImaxlDcnmjeVKnRRaH5lTXiVmBomZE04VmauUUALlTYYg7tAgP8ECyE0IYYaNgUJJB9eI1QOqTYkIn09KQYGITIlKb8ACZMAGYAhgCuADZdHADGIPoHnc-pEsvwZODYOrmQYHI9EIazQhF2nwBxVKmghTWEgJomRhQ2EKMRRR49CaAimqNxlEy2P48KeOMwhOhePqb3qyLxbTebUkRzJJIGFJyJJAJwuNzurM5aAQYjKpMovKutw4gupIrZ+IlZylAsq4oZnSVfOlADdwNlOaRYUjwCBXqYrPwYAgOAAVfXGxV4iKfPYkQnoLZ8AHIaTYDD0bCbSwsGCQQjg4w7QgikFrEhIGDYZMhXgklJpbxWp5rYpJNFlfPgCH0yjCsTUjIcQEyVIjCF1ypaeCQpAAJSYAGcAJadrrnBT3Jh5ioYxsYyQADwdOTRS0BEBkwltygHndOAHtlABbc5HLcAHU7eAAahxp1mBBb6Osr4wlyAAAobhRdJhHjtdbunbv3Pdb85zyeecKBzA58CoEBhAAYXOAAHc57m7LpD07E4jwAMW7W5VwAcyYbcgMDbAnkgSgGCQG86CgkAAC1FBUI9Ah1ID3SQPBKAQG9wAgh9n1fAArwduw3bcmC6ZQNyYgBrD8mFwm5-2UID8BI7wkAQTMKgfWDlFwwCsVA+oWneTEnlAtoTOZDgNyGM0YioeZhGJZYIG5HFGFtRROwAY6ktDziPFDdyOQDbJI7ErDmbBhDmVzTUoCKQC8hRfP8+CAGfOyPQL12wiTznwwjbJoQgHOitErXQAQapoTzvL8o8FFyv89MAoA)
 
-**Projeto do Esquemático e do PCB no EAGLE**
+------------------------------
+### Projeto esquemático
+![image](https://user-images.githubusercontent.com/70608303/126671902-8b6510ad-0f59-4bd4-9217-33f732d51950.png)
 
-**Incluir um VIDEO mostrando o Projeto funcionando e/ou simulando, e explicando porque escolheu os valores dos componentes (Upa o vídeo no Youtube ou google drive e poe um link no Readme do teu Github/gitlab).**
+------------------------------
+### PCB
+![image](https://user-images.githubusercontent.com/70608303/126671549-284b4e6a-a7d9-4be7-b6b5-ea114e14c358.png)
+
+
+## Calculos dos componentes
+![calc capacitor](https://user-images.githubusercontent.com/70608303/126669973-f4bc9f7d-e9a4-42b9-914a-477148cf743f.jpg)
+![calc resistores](https://user-images.githubusercontent.com/70608303/126670039-9c829897-8d2a-4eb2-a3eb-533e1ae7d988.jpg)
+
+
+## Video de explicação do circuito ainda será gravado.
 
 ## O grupo
 
