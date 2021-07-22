@@ -1,0 +1,44 @@
+# NetScript
+# 
+# Exported from pci_fonte.sch at 22/07/2021 12:28
+# 
+# EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+# 
+Change Class 0;
+Signal 'N$1'      'B1'       'AC1' \
+                  'JP1'      '2' \
+                  ;
+Change Class 0;
+Signal 'N$2'      'B1'       'AC2' \
+                  'JP1'      '1' \
+                  ;
+Change Class 0;
+Signal 'N$3'      'B1'       '+' \
+                  'C1'       '+' \
+                  'Q1'       '1' \
+                  'R1'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$5'      'Q1'       '2' \
+                  'R3'       '2' \
+                  ;
+Change Class 0;
+Signal 'N$6'      'D1'       'C' \
+                  'R1'       '1' \
+                  'R3'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$7'      'JP2'      '1' \
+                  'Q1'       '3' \
+                  ;
+Change Class 0;
+Signal 'N$8'      'R2'       '2' \
+                  'R3'       '1' \
+                  ;
+Change Class 0;
+Signal 'N$9'      'B1'       '-' \
+                  'C1'       '-' \
+                  'D1'       'A' \
+                  'JP2'      '2' \
+                  'R2'       '1' \
+                  ;
