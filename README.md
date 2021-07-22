@@ -13,9 +13,8 @@ Resistor 470ohms        | 1          | 0,05
 Diodo Zener 13v 0,5w    | 1          | 0,08
 Potenciômetro 1k        | 1          | 1,99
 Resistor 390ohms        | 1          | 0,05
-Resistor 10ohms         | 1          | 0,05
 Transistor NPN 45v500mA | 1          | 0,20
-TOTAL | -- | 34.75
+TOTAL | -- | 34.78
 
 * Transformador.  
 O transformador escolhido é o componente responsavel por abaixar a tensão da tomada (220 V) para uma tensão mais proxima da que que será trabalhada (12-3 V). O transformador em questão leva 110 ou 220 para 15V.
@@ -35,10 +34,10 @@ O capacitor é responsavel por carregar o sistema quando a tensão (vinda da pon
 .
 .
 
-![image](https://user-images.githubusercontent.com/70608303/126587615-77a5b935-c136-45e0-a507-f490d6816679.png)
+![image](https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/circ%20Fonte.png)
 
 
-[Circuito simulado no falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcAOaAmA7MgnGB-kA2MAFgwTRBMJCRIGZaBTAWjDACgB3K5SENMmRUwNQcMgd6JEAC8mAOyYAnNvRYyIYaBlL0KyMNkFh4aVhigDY8W3cjJNjTrJFihbgWhmV5S1WDqJBzKnqL8JKJeMhEYkjwIJD4eJHwCHvG0SeCE-ImaxlDcnmjeVKnRRaH5lTXiVmBomZE04VmauUUALlTYYg7tAgP8ECyE0PT0kCSQCLmQ9Lr0jUgwuqm4k5hYkISElKb8ACZMAGYAhgCuADZdHADGIPoHnc-pElA205ZG6HtJ2AQyAwqUIjhoMDgnB4pU0GH6wjA8KKMLKTWEsPAyMy9CaAgwlHR+MoOLxRNx-EwJOKVPeTwodMytLabzakiOTzJA2ZnUoJwuNzuHNpaDmlSJfLOV1uHGFBIEYopQwxIH50qF4u58rakoFMoAbuBsszskiIeAQK9TFZ+DAEBwACpGuEI4lWGKwMEkEmwEhAwggmbGEjYPhkaylabUabGBALQKsKIwbApkK8SkpNLeW1UODFJIYsoFrEQmny0VicsZDhImSpEbI+uVLTwT6IEAAJSYAGcAJbdrrnBT3Jj5ipm9MlooAD2dOQxjSxEBkwgdyiH3dOAHtlABbc5HHcAHW7eAAahxZ9mBNapkg0IEqCBhAAFLcKLpME9drq9069+4Dx3c5LyeRc8EoehCjwOhnxAABhc4AAdznuXsumPbsThPAAxXtbnXABzJhd1AqDsCeSBKAYJA7yfYQAC1FBUE9An1UDvSQCDaCmcB8HokA3w-AAr4dey3XcmC6ZQt1YgBrb8mEIm4gOUUD8Ao7wkCBSkKhXBDzmUQiQJ4N56haRlilZToLLZDgtyGS0YlzUNOVtaAIEpRzGAdRRuwAY9krDzhPDD9yOECHIo3F3UgVyZk+LQBBAaKQF8hQAqC5CAGfuxPELN3w6TzmI0iHJoQhnKDDF3MJZKaB8vzApPBQCsAoyQKAA)
+[Circuito simulado no falstad](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcAOaAmA7MgnGB-kA2MAFgwTRBMJCRIGZaBTAWjDACgB3K5SENMmRUwNQcMgd6JEAC8mAOyYAnNvRYyIYaBlL0KyMNkFh4aVhigDY8W3cjJNjTrJFihbgWhmV5S1WDqJBzKnqL8JKJeMhEYkjwIJD4eJHwCHvG0SeCE-ImaxlDcnmjeVKnRRaH5lTXiVmBomZE04VmauUUALlTYYg7tAgP8ECyE0IYYaNgUJJB9eI1QOqTYkIn09KQYGITIlKb8ACZMAGYAhgCuADZdHADGIPoHnc-pEsvwZODYOrmQYHI9EIazQhF2nwBxVKmghTWEgJomRhQ2EKMRRR49CaAimqNxlEy2P48KeOMwhOhePqb3qyLxbTebUkRzJJIGFJyJJAJwuNzurM5aAQYjKpMovKutw4gupIrZ+IlZylAsq4oZnSVfOlADdwNlOaRYUjwCBXqYrPwYAgOAAVfXGxV4iKfPYkQnoLZ8AHIaTYDD0bCbSwsGCQQjg4w7QgikFrEhIGDYZMhXgklJpbxWp5rYpJNFlfPgCH0yjCsTUjIcQEyVIjCF1ypaeCQpAAJSYAGcAJadrrnBT3Jh5ioYxsYyQADwdOTRS0BEBkwltygHndOAHtlABbc5HLcAHU7eAAahxp1mBBb6Osr4wlyAAAobhRdJhHjtdbunbv3Pdb85zyeecKBzA58CoEBhAAYXOAAHc57m7LpD07E4jwAMW7W5VwAcyYbcgMDbAnkgSgGCQG86CgkAAC1FBUI9Ah1ID3SQPBKAQG9wAgh9n1fAArwduw3bcmC6ZQNyYgBrD8mFwm5-2UID8BI7wkAQTMKgfWDlFwwCsVA+oWneTEnlAtoTOZDgNyGM0YioeZhGJZYIG5HFGFtRROwAY6ktDziPFDdyOQDbJI7ErDmbBhDmVzTUoCKQC8hRfP8+CAGfOyPQL12wiTznwwjbJoQgHOitErXQAQapoTzvL8o8FFyv89MAoA)
 
 **Projeto do Esquemático e do PCB no EAGLE**
 
