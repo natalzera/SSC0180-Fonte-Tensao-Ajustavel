@@ -67,7 +67,8 @@ Por fim, o transistor é responsavel por amplificar a corrente que passa pela ca
 <img src="https://user-images.githubusercontent.com/70608303/126669973-f4bc9f7d-e9a4-42b9-914a-477148cf743f.jpg" aling="left" alt="Cálculo para os resistores" border="0" width="497" height="700">.
 
 
-## Video de explicação do circuito ainda será gravado.
+## Video de explicação do circuito está em processo de edição
+
 
 ## O grupo
 
