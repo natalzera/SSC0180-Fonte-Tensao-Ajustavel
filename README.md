@@ -55,11 +55,15 @@ Por fim, o transistor é responsavel por amplificar a corrente que passa pela ca
 
 ------------------------------
 ### Projeto esquemático
-![Projeto esquemático](https://user-images.githubusercontent.com/70608303/126671902-8b6510ad-0f59-4bd4-9217-33f732d51950.png)
+![Projeto esquemático](https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/Captura%20de%20tela%202021-07-22%20133347.png)
 
 ------------------------------
 ### PCB
-![Esquema PCB](https://user-images.githubusercontent.com/70608303/126675748-d83f2c4b-78fe-43f4-a76a-9daf7208f5aa.png)
+![Esquema PCB](https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/Captura%20de%20tela%202021-07-22%20133251.png)
+
+------------------------------
+### Placa do circuito
+![Modelo 3D](https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/pci_fonte%20v1.png)
 
 
 ## Calculos dos componentes
