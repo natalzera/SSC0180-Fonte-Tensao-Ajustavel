@@ -67,11 +67,11 @@ Por fim, o transistor é responsavel por amplificar a corrente que passa pela ca
 
 
 ## Calculos dos componentes
-<img src="https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/calc%20capacitor.jpg" aling="left" alt="Cálculo para os resistores" border="0" width="497" height="700">.
-<img src="https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/calc%20resist.jpg" aling="left" alt="Cálculo para os resistores" border="0" width="497" height="700">.
+<img src="https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/calc%20capacitor.jpg" aling="left" alt="Cálculo para os resistores" border="0" width="452" height="636">.
+<img src="https://github.com/natalzera/SSC0180-Fonte-Tensao-Ajustavel/blob/main/img/calc%20resist.jpg" aling="left" alt="Cálculo para os resistores" border="0" width="452" height="636">.
 
 
-## Video de explicação do circuito
+## Vídeo de explicação do circuito
 [![Explicacção do circuito no falstad](https://user-images.githubusercontent.com/70608303/127237751-b45e3747-7b73-463b-a7c8-c73190df7146.png)](http://www.youtube.com/watch?v=uf3_B7Bvurc)
 
 
